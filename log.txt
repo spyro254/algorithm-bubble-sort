@@ -1,0 +1,19 @@
+ALGORITHM-BUBBLE-SORT   
+---------------------
+
+Summary: Visualisation to explain bubble sort method
+--------
+
+To do
+-----
+
+[] Implement bubble sort simple code
+[] Create visual elements to show sort
+[] Implement steps to animate visual elements through each step of the sort
+
+
+Log
+---
+
+- Created base files (log, index.html, css and js)
+- Created basic html page and link files
